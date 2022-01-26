@@ -1,0 +1,16 @@
+PODS:
+  - SGPlayerKit (0.1.0)
+
+DEPENDENCIES:
+  - SGPlayerKit (from `../`)
+
+EXTERNAL SOURCES:
+  SGPlayerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SGPlayerKit: 8eadda8124cbacff4a72d4f65632f92463402f3a
+
+PODFILE CHECKSUM: 7e00bd00f035971aae721cfa6fe98b61f9c1c3c3
+
+COCOAPODS: 1.11.2
